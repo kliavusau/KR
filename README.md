@@ -29,7 +29,7 @@
 
 <h3>2.2. Диаграмма компонентов</h3>
 
-<img src='Images/Components.png'>
+<img src='Images/Component.png'>
 
 <h3>2.3. Диаграмма развёртывания</h3>
 
